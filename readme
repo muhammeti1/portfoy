@@ -1,0 +1,23 @@
+# Portföy
+
+Animasyonlu ve modern sayılabilecek bir portföy.
+
+## İçerik Dosyaları
+
+İçerisinde bir adet **read.me**, **index.html**, **style.css** ve **script.js** dosyası bulunuyor.
+
+## Kullanılan Diller
+
+* Html
+* Css
+* Javascript
+
+## Katkıda Bulunmak 
+
+Çekme istekleri kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu açın.
+
+Lütfen testleri uygun şekilde güncellediğinizden emin olun.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
